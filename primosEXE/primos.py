@@ -51,4 +51,3 @@ while True:
 
 sair = input('tecle enter para sair do programa')
 
-#thank you rocketseat!!!! 
